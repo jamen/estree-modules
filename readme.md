@@ -39,9 +39,9 @@ Get an array of `module.exports`/`exports` assignment nodes or `export` declarat
 
 ```js
 modules.exports(node)
-[ ExportNamedDeclaration { ... },
-  AssignmentExpression { ... },
-  AssignmentExpression { ... } ]
+// [ ExportNamedDeclaration { ... },
+//  AssignmentExpression { ... },
+//  AssignmentExpression { ... } ]
 ```
 
 ## License
